@@ -1,2 +1,2 @@
 # PRODIGY_TrackCode_Task-2
-<h3>Stopwatch Timer</h3>
+<h2>Stopwatch Timer</h2>
